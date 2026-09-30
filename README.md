@@ -15,3 +15,7 @@ Pack the extension.
 ```shell
 ./pack.sh
 ```
+
+
+
+-# based off of https://github.com/csutorasa/custom-new-tab
