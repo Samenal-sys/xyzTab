@@ -18,4 +18,5 @@ Pack the extension.
 
 
 
--# based off of https://github.com/csutorasa/custom-new-tab
+uses code from https://github.com/csutorasa/custom-new-tab
+
